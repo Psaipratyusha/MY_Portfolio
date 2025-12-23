@@ -41,6 +41,8 @@ To personalize this portfolio for yourself:
 5. Modify colors in `styles.css` if desired
 ![image alt](https://github.com/Psaipratyusha/MY_Portfolio/blob/main/Screenshot%202025-12-23%20131430.png?raw=true)
 ![image_alt](https://github.com/Psaipratyusha/MY_Portfolio/blob/main/Screenshot%202025-12-23%20131449.png?raw=true)
+![image_alt](https://github.com/Psaipratyusha/MY_Portfolio/blob/main/Screenshot%202025-12-23%20131511.png?raw=true)
+
 
 
 
