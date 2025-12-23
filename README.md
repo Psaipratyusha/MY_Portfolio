@@ -40,6 +40,7 @@ To personalize this portfolio for yourself:
 4. Update project images and descriptions
 5. Modify colors in `styles.css` if desired
 
+
 ## Deployment
 To host this portfolio online:
 - Upload all files to a web server
